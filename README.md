@@ -1,2 +1,0 @@
-# Ahamed
-Python developer 
